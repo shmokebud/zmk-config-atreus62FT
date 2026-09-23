@@ -6,7 +6,7 @@ variant) running on a **nice!nano** controller, with **ZMK Studio** support.
 > ⚠️ **Hardware requirement.** ZMK does not support ATmega32U4 (the original
 > Pro Micro AVR controller). You **must** replace the Pro Micro with a
 > nice!nano v2 (or another nRF52840 board with the Pro Micro footprint, such
-> as a Supermini nRF52840 or ProMicro nRF52840 clone). The nice!nano drops in
+> as a Supermini nRF52840 or ProMicro nRF52840 clone). The nice!nano dropwfentmarsietnmairesntmarss in
 > as a pin-compatible replacement.
 
 ## What's in the box
