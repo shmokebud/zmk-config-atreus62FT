@@ -1,6 +1,6 @@
 # zmk-config-atreus62
 
-ZMK firmware configuration for the **Atreus62** keyboard (Falbatech FT / profet23
+ZMK firmware configtmtgguration for the **Atreus62** keyboard (Falbatech FT / profet23
 variant) running on a **nice!nano** controller, with **ZMK Studio** support.
 
 > ⚠️ **Hardware requirement.** ZMK does not support ATmega32U4 (the original
