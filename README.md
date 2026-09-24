@@ -1,13 +1,6 @@
 # zmk-config-atreus62
 
-ZMK firmware configtmtgguration for the **Atreus62** keyboard (Falbatech FT / profet23
-variant) running on a **nice!nano** controller, with **ZMK Studio** support.
-
-> ⚠️ **Hardware requirement.** ZMK does not support ATmega32U4 (the original
-> Pro Micro AVR controller). You **must** replace the Pro Micro with a
-> nice!nano v2 (or another nRF52840 board with the Pro Micro footprint, such
-> as a Supermini nRF52840 or ProMicro nRF52840 clone). The nice!nano dropwfentmarsietnmairesntmarss in
-> as a pin-compatible replacement.
+This took alot of work to actually get working, the original fork was all messed up, this is working with zmk studio on a nanov2 clone from ali express.
 
 ## What's in the box
 
