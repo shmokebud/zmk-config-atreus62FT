@@ -24,11 +24,11 @@
         };
 		
 		        // Define extra layers as reserved
-        extra1 {
+        extra3 {
             status = "reserved";
         };
 
-        extra2 {
+        extra4 {
             status = "reserved";
         };
     };
